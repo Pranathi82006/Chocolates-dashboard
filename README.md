@@ -39,9 +39,9 @@ Explore and interact with the dashboard.
 
 📂 File Included
 
- Power BI Template file->https:(github.com/Pranathi82006/Chocolates-dashboard/blob/main/powerbi-chocolatesdashboard.pbit)
+ Power BI Template file->( https://github.com/Pranathi82006/Chocolates-dashboard/blob/main/powerbi-chocolatesdashboard.pbit )
 
- screenshot of dashboard -
+ screenshot of dashboard -( https://github.com/Pranathi82006/Chocolates-dashboard/blob/main/snapshot%20of%20dashboard.png )
 
 💡 Use Cases
 
