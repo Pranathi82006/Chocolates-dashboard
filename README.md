@@ -39,7 +39,9 @@ Explore and interact with the dashboard.
 
 📂 File Included
 
- Power BI Template file
+ Power BI Template file->https:(github.com/Pranathi82006/Chocolates-dashboard/blob/main/powerbi-chocolatesdashboard.pbit)
+
+ screenshot of dashboard -
 
 💡 Use Cases
 
@@ -48,3 +50,4 @@ Business decision-making for chocolate sales.
 Identifying trends and market opportunities.
 
 Academic/learning project for data visualization in Power BI.
+
